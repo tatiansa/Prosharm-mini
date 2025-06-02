@@ -10,6 +10,6 @@
     "next": "^14",
     "react": "^18",
     "react-dom": "^18",
-    "@farcaster/frame-sdk": "^0.0.4"
+    "@farcaster/hub-nodejs": "^0.6.0"
   }
 }

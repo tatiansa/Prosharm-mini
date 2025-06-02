@@ -3,7 +3,7 @@
     "url": "https://prosharm-mini.vercel.app", 
     "name": "ProShark NFT",
     "description": "Mint your ProShark NFT on Base network for 0.000005 ETH",
-    "icon": "https://green-unfair-amphibian-724.mypinata.cloud/ipfs/bafybeiaiqrdiohqkzc6ovz5aiag2sf52zckb45snoyhmhjdw7vh32gkggy", 
+    "icon": "https://prosharm-mini.vercel.app/icon.png", 
     "version": "1.0.0"
   }
 }

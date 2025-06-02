@@ -1,12 +1,4 @@
 {
-  "functions": {
-    "api/mint.js": {
-      "runtime": "nodejs20.x"
-    },
-    "api/success.js": {
-      "runtime": "nodejs20.x"
-    }
-  },
   "rewrites": [
     {
       "source": "/.well-known/farcaster.json",

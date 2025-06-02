@@ -1,10 +1,10 @@
 {
   "functions": {
     "api/mint.js": {
-      "runtime": "nodejs20.x"
+      "runtime": "nodejs18.x"
     },
     "api/success.js": {
-      "runtime": "nodejs20.x"
+      "runtime": "nodejs18.x"
     }
   },
   "rewrites": [

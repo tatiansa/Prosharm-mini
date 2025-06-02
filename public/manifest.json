@@ -1,0 +1,25 @@
+{
+  "name": "ProShark NFT Mini App",
+  "short_name": "ProShark",
+  "description": "Mint ProShark NFT on Base network",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "farcaster": {
+    "version": "1.0.0",
+    "name": "ProShark NFT",
+    "description": "Mint your ProShark NFT on Base network",
+    "icon": "https://gateway.pinata.cloud/ipfs/bafkreidmvxqjqpuz5rb7z74hcqdfprf26mgf4thovlh5erm5kqrng5sulq",
+    "url": "https://prosharm-mini.vercel.app"
+  }
+}

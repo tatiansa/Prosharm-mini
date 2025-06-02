@@ -1,0 +1,15 @@
+{
+  "name": "prosharm-mini",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14",
+    "react": "^18",
+    "react-dom": "^18",
+    "@farcaster/frame-sdk": "^0.0.4"
+  }
+}

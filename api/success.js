@@ -35,7 +35,7 @@ export default async function handler(req, res) {
     <meta property="fc:frame:button:1:target" content="https://basescan.org/tx/${transactionId || 'latest'}" />
     <meta property="fc:frame:button:2" content="🦈 Mint Another" />
     <meta property="fc:frame:button:2:action" content="post" />
-    <meta property="fc:frame:button:2:target" content="https://your-domain.vercel.app" />
+    <meta property="fc:frame:button:2:target" content="https://https://prosharm-mini.vercel.app" />
     
     <meta property="og:title" content="ProShark NFT Minted Successfully!" />
     <meta property="og:description" content="Your ProShark NFT has been minted successfully!" />

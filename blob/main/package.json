@@ -1,0 +1,7 @@
+"@farcaster/frame-sdk": "^0.0.4"
+"dependencies": {
+  "next": "latest",
+  "react": "^18",
+  "react-dom": "^18",
+  "@farcaster/frame-sdk": "^0.0.4"
+}

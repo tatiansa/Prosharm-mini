@@ -1,6 +1,5 @@
 const nextConfig = {
-  output: 'standalone',
-  // experimental.serverActions можно удалить, если не нужно кастомизировать
+  output: 'standalone'
 };
 
 module.exports = nextConfig;

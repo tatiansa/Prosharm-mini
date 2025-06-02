@@ -1,12 +1,8 @@
 
 {
   "functions": {
-    "api/mint.js": {
-      "runtime": "vercel/node@18.x"
-    },
-    "api/success.js": {
-      "runtime": "vercel/node@18.x"
-    }
+    "api/mint.js": {},
+    "api/success.js": {}
   },
   "rewrites": [
     {

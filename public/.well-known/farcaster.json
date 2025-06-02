@@ -5,7 +5,7 @@
     "signature": "MHg4NGQ4NmRlMjVhMGJlMjU5ZGM0YWIzNWRmOGQ4ZGJkZGYxMjAwNzJjNDBhZDFiZWFjOGFkYjUwZjA3Mjk4MWY3MjFmYzJkMTExNGIzNzYwN2QyOWVjNjZlNzk2YjVhZjNiYWVjZjA1OTcwZDcwODczOWJkZTdkMDBmNTc4NTFiZTFi"
   },
   "miniApp": {
-    "url": "https://prosharm-mini.vercel.app",
+    "url": "https://proshark-mini.vercel.app",
     "name": "ProShark NFT",
     "description": "Mint your ProShark NFT on Base network for 0.000005 ETH",
     "icon": "https://gateway.pinata.cloud/ipfs/bafkreidmvxqjqpuz5rb7z74hcqdfprf26mgf4thovlh5erm5kqrng5sulq",

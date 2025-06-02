@@ -1,6 +1,5 @@
 
-// api/success.js - Callback после успешного минта
-export default async function handler(req, res) {
+export default function handler(req, res) {
   // Включаем CORS для Farcaster
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
@@ -52,6 +51,7 @@ export default async function handler(req, res) {
 </body>
 </html>`;
 
+    res.setHeader('Content-Type', 'text/html');
     return res.status(200).send(successFrame);
     
   } catch (error) {
